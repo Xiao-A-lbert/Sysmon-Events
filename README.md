@@ -1,7 +1,7 @@
 # Sysmon Events
 
 <h2>Description</h2>
-In this task, I installed sysmon and configured it with powershell and explored the different sysmon logs using specific sysmon event ids to observe a reverse tcp connection form notmalware.exe.  
+In this task, I installed sysmon and configured it with powershell and explored the different sysmon logs using specific sysmon event ids to observe a reverse tcp connection from notmalware.exe.  
 
 <h2>Languages and Utilities Used</h2>
 
