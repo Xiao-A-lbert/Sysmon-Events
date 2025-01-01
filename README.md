@@ -6,7 +6,7 @@ In this task, I installed sysmon and configured it with powershell and explored 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Sysmon</b>
-- <b>POwershell</b>
+- <b>Powershell</b>
 - <b>Event Viewer</b>
 
 <h2>Environments Used</h2>
