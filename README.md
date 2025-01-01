@@ -16,7 +16,7 @@ In this task, I installed sysmon and configured it with powershell and explored 
 
 <br />
 <br />
-Using powershell to isntall sysmon with  the switftonsecurity sysmon-config from: https://github.com/SwiftOnSecurity/sysmon-config 
+Using powershell to install sysmon with  the switftonsecurity sysmon-config from: https://github.com/SwiftOnSecurity/sysmon-config 
 
 ![1) installing sysmon64 with github config](https://github.com/user-attachments/assets/2e73554b-7768-4a1e-8bfd-4d8f9d4cb233)
 
